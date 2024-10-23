@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=visxnu&label=Visitors%20count&color=10d9c3&style=plastic" alt="visxnu" /> </p>
 </br>
 
-<div align="center"> 
+<div align="right"> 
   <a href="mailto:vishnuu1690@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -14,6 +14,8 @@
   <a href="https://instagram.com/_visx.nu" target="_blank">
      <img src="https://img.shields.io/badge/instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
+  <img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
+
 </div>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
@@ -73,7 +75,9 @@
 
 <br/>
 <hr/>
-
+<div align="right">
+  <h2></h2>
+</div>  
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
@@ -91,6 +95,7 @@
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=visxnu&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=visxnu&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  
 </div>
 
 <br/><br/>
