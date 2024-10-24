@@ -14,13 +14,13 @@
   <a href="https://instagram.com/_visx.nu" target="_blank">
      <img src="https://img.shields.io/badge/instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
-  <img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
+
 
 </div>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="left">
+<div align="center">
   <!-- Popular Programming Languages -->
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" />
   
