@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=visxnu&label=Visitors%20count&color=10d9c3&style=plastic" alt="visxnu" /> </p>
 </br>
 
-<div align="right"> 
+<div align="center"> 
   <a href="mailto:vishnuu1690@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
