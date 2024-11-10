@@ -80,10 +80,9 @@
 </div>  
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/A-S-W-I-N-S-P-A-R-K-Y/A-S-W-I-N-S-P-A-R-K-Y/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+
+
+![snake gif](https://github.com/visxnu/visxnu/blob/output/github-snake.svg)
 </div>
 
 <hr/>
@@ -113,3 +112,5 @@
 
 </details>
 </br></br>
+
+
