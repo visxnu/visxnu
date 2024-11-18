@@ -38,18 +38,12 @@
   
   <!-- Web Frameworks -->
   
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
   
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo" />
   
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
   
-  <!-- DevOps and Cloud -->
-  
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo" />
-  
-  <img src="https://skillicons.dev/icons?i=googlecloud" height="40" alt="googlecloud logo" />
   
   <!-- Tools -->
   
@@ -61,7 +55,6 @@
   
   <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo" />
   
-  <img src="https://skillicons.dev/icons?i=replit" height="40" alt="replit logo" />
   
   <!-- Operating Systems -->
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
