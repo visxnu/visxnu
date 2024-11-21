@@ -1,5 +1,5 @@
-![My card name](https://cardivo.vercel.app/api?name=VISHNU‎ㅤVㅤUNNIKRISHNAN%20&description=Hi,%20Welcome%20To%20My%20Profile&image=https://avatars.githubusercontent.com/u/180770370?v=4?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23e4f2f6&instagram=_visx.nu&github=visxnu&)
-</p>
+![My card name](https://cardivo.vercel.app/api?name=VISHNU%20V%20UNNIKRISHNAN&description=Hi,%20I%27m%20a%20Junior%20Ai%20Developer%20and%20i%27m%2021%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/180770370?v=4?v=4&backgroundColor=%23ecf0f1&instagram=_visx.nu&linkedin=visxu&github=visxnu&twitter=Visx_nu&pattern=ticTacToe&colorPattern=%23eaeaea)
+
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=visxnu&label=Visitors%20count&color=10d9c3&style=plastic" alt="visxnu" /> </p>
 </br>
